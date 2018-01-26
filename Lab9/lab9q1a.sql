@@ -1,0 +1,1 @@
+select * from Vendors where VendorName = 'United Parcel Service'

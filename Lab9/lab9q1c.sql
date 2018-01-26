@@ -1,0 +1,1 @@
+select * from Vendors where VendorID = 123 or VendorID = 122

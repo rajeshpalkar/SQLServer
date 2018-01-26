@@ -1,0 +1,1 @@
+select * from TOP10PaidInvoices

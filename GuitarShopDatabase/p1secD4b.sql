@@ -1,0 +1,1 @@
+select count(ProductName) as ProductCount from Products
